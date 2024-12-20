@@ -99,7 +99,6 @@ Future work could involve:
 ## Acknowledgements
 
 - Kaggle for providing the dataset.
-- [Your Name] for conducting the analysis.
 - Any other contributors or sources you want to acknowledge.
 
 ## License
